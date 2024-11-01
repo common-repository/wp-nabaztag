@@ -1,0 +1,110 @@
+# WP-Nabaztag
+# Copyright (C) 2009 >-]~SkG~[-->
+# This file is distributed under the same license as the PACKAGE package.
+# Sergio Conde <skgsergio@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Nabaztag 1.0\n"
+"Report-Msgid-Bugs-To: http://skg.eien-no-ai.net/mis-proyectos/\n"
+"POT-Creation-Date: 2009-02-23 08:11+0100\n"
+"PO-Revision-Date: 2009-02-23 20:12+0100\n"
+"Last-Translator: Sergio Conde (>-]~SkG~[-->) <skgsergio@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-nabaztag.js.php:80
+msgid "Message sent"
+msgstr "Mensaje enviado"
+
+#: wp-nabaztag.js.php:87
+msgid "You have not written a message"
+msgstr "No has escrito un mensaje"
+
+#: wp-nabaztag.php:46
+msgid "This widget must be configurated before use it"
+msgstr "Este widget debe ser configurado antes de usarlo"
+
+#: wp-nabaztag.php:55
+msgid "Send"
+msgstr "Enviar"
+
+#: wp-nabaztag.php:59
+msgid "Go back"
+msgstr "Atras"
+
+#: wp-nabaztag.php:98
+msgid "Widget config"
+msgstr "Configuraci&oacute;n del widget"
+
+#: wp-nabaztag.php:99
+msgid "Title"
+msgstr "Titulo"
+
+#: wp-nabaztag.php:100
+msgid "Main text"
+msgstr "Texto principal"
+
+#: wp-nabaztag.php:101
+msgid "Textarea"
+msgstr "Caja de texto"
+
+#: wp-nabaztag.php:106
+msgid "Submit button"
+msgstr "Bot&oacute;n de env&iacute;o"
+
+#: wp-nabaztag.php:107
+msgid "Align"
+msgstr "Alineamiento"
+
+#: wp-nabaztag.php:108
+msgid "Left"
+msgstr "Izquierda"
+
+#: wp-nabaztag.php:109
+msgid "Center"
+msgstr "Centro"
+
+#: wp-nabaztag.php:110
+msgid "Right"
+msgstr "Derecha"
+
+#: wp-nabaztag.php:117
+msgid "Nabaztag config"
+msgstr "Configuraci&oacute;n del Nabaztag"
+
+#: wp-nabaztag.php:118
+msgid "Serial number"
+msgstr "N&uacute;mero de serie"
+
+#: wp-nabaztag.php:119
+msgid "Token number"
+msgstr "N&uacute;mero de autorizaci&oacute;n"
+
+#: wp-nabaztag.php:120
+msgid "TTS Voice"
+msgstr "Voz TTS"
+
+#: wp-nabaztag.php:121
+msgid "Select one"
+msgstr "Seleciona uno"
+
+#: wp-nabaztag.php:122
+msgid "Get list"
+msgstr "Obtener lista"
+
+#: wp-nabaztag.php:128
+msgid "Widget to allow your visitors contact you through your Nabaztag"
+msgstr "Widget para permitir a tus visitantes contactar contigo a trav&eacute;s de tu Nabaztag"
+
+#: wp-nabaztag.sn.php:50
+msgid "Unexpected error"
+msgstr "Error inesperado"
+
